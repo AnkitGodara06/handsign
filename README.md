@@ -3,9 +3,9 @@
 https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe
 
 but in React, and nextJS.
-The working demo is deployed in here https://tomasgonzalez.github.io/hand-gesture-recognition-using-mediapipe-in-react/ .
+# The working demo is deployed in here https://tomasgonzalez.github.io/hand-gesture-recognition-using-mediapipe-in-react/ .
 
-s
+
 I made It because I need it for another project, and thought that It would be a good idea to upload it in this rough form just in case It helps anyone.
 
 ## To convert the hdf5 model to tfjs you can use the [tensorflowjs_converter](https://www.tensorflow.org/js/guide/conversion) CLI following command: 
